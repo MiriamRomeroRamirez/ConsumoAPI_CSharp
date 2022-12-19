@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> 
+    <title>Document</title> 
+</head>
+<body class="container">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="Get.js"></script>
+    <script src="Post.js"></script>
+    <div class="row">
+        <h1>Grupo</h1>
+        <div class="col-6 p-2">
+            <select id="ProgEd">
+            </select>
+        </div>
+        <div class="col-6 p-2">
+            <select id="Grupo">
+            </select>
+        </div>
+        <div class="col-6 p-2">
+            <select id="Cuatri">
+            </select>
+        </div>
+        <div class="col-6 p-2"><input type="text" name="" class="form-control" id="Turno" placeholder="Turno"></div>
+        <div class="col-6 p-2"><input type="text" name="" class="form-control" id="Modalidad" placeholder="Modalidad"></div>
+        <div class="col-6 p-2"><input type="text" name="" class="form-control" id="Extra1" placeholder="Extra"></div>
+        <div class="col-6 p-2"><input type="button" value="Insertar" class="btn btn-primary" onclick="insertarGrupo()"></div>
+    </div>
+    <table id="tabla" class="table table-hover">
+    </table>
+    <table id="tablasinid" class="table table-hover">
+    </table>
+    <br><br><br>
+    <div class="row">
+        <h1>Seguimiento</h1>
+        <div class="col-6 p-2">
+            <select id="Seguimiento">
+            </select>
+        </div>
+        <div class="col-6 p-2">
+            <select id="Medico">
+            </select>
+        </div>
+        <div class="col-6 p-2"><input type="text" name="" class="form-control" id="Fecha" placeholder="Fecha"></div>
+        <div class="col-6 p-2"><input type="text" name="" class="form-control" id="Form_Comunica" placeholder="Comunica"></div>
+        <div class="col-6 p-2"><input type="text" name="" class="form-control" id="Reporte" placeholder="Reporte"></div>
+        <div class="col-6 p-2"><input type="text" name="" class="form-control" id="Entrevista" placeholder="Entrevista"></div>
+        <div class="col-6 p-2"><input type="text" name="" class="form-control" id="Extra2" placeholder="Extra"></div>
+        <div class="col-6 p-2"><input type="button" value="Insertar" class="btn btn-primary" onclick="insertarSeguimiento()"></div>
+    </div>
+    <table id="tablas" class="table table-hover">
+    </table>
+    <br><br><br>
+    <table id="tablasinids" class="table table-hover">
+    </table>
+    <div class="row">
+        <h1>Positivos</h1>
+        <div class="col-6 p-2"><input type="text" class="form-control" name="" id="FechaConfirmado" placeholder="Fecha confirmado"></div>
+        <div class="col-6 p-2"><input type="text" class="form-control" name="" id="Comprobacion" placeholder="Comprobacion"></div>
+        <div class="col-6 p-2"><input type="text" class="form-control" name="" id="Antecendentes" placeholder="Antecedentes"></div>
+        <div class="col-6 p-2"><input type="text" class="form-control" name="" id="Riesgo" placeholder="Riesgo"></div>
+        <div class="col-6 p-2"><input type="number" class="form-control" name="" id="NumContagio" placeholder="Numero de contagio"></div>
+        <div class="col-6 p-2"><input type="text" class="form-control" name="" id="Extra3" placeholder="Extra"></div>
+        <div class="col-6 p-2">
+            <select id="Alumno">
+            </select>
+        </div>
+        <div class="col-6 p-2"><input type="button" class="btn btn-primary" value="Insertar" onclick="insertarPositivo()"></div>
+    </div>
+    <table id="tablap" class="table table-hover">
+    </table>
+    <br><br><br>
+    <table id="tablasinidp" class="table table-hover">
+    </table>
+</body>
+</html>

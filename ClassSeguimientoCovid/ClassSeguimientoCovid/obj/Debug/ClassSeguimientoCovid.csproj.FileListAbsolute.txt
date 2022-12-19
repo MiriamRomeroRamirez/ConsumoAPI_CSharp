@@ -1,0 +1,11 @@
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\bin\Debug\ClassSeguimientoCovid.dll
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\bin\Debug\ClassSeguimientoCovid.pdb
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\obj\Debug\ClassSeguimientoCovid.csproj.AssemblyReference.cache
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\obj\Debug\ClassSeguimientoCovid.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\obj\Debug\ClassSeguimientoCovid.dll
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\obj\Debug\ClassSeguimientoCovid.pdb
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\MIRIAM_RR\Desktop\Producto2_SeguimientoCovid\ClassSeguimientoCovid\ClassSeguimientoCovid\bin\Debug\Newtonsoft.Json.Bson.xml
